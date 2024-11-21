@@ -1,0 +1,1081 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Fitpas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|f:\\fitpas\\server\\sistemskeoperacije\\obrisikategorijuso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|solutionrelative:server\\sistemskeoperacije\\obrisikategorijuso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|F:\\Fitpas\\server\\sistemskeoperacije\\obrisiklijentaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|solutionrelative:server\\sistemskeoperacije\\obrisiklijentaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3D4331-13E3-496B-B0A0-4586BB1CD3E1}|DBBroker\\DBBroker.csproj|f:\\fitpas\\dbbroker\\broker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3D4331-13E3-496B-B0A0-4586BB1CD3E1}|DBBroker\\DBBroker.csproj|solutionrelative:dbbroker\\broker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|F:\\Fitpas\\server\\sistemskeoperacije\\sistemskaoperacijabazicno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|solutionrelative:server\\sistemskeoperacije\\sistemskaoperacijabazicno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|F:\\Fitpas\\server\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|solutionrelative:server\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|F:\\Fitpas\\server\\clienthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|solutionrelative:server\\clienthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|F:\\Fitpas\\server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|solutionrelative:server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|F:\\Fitpas\\server\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|solutionrelative:server\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3AB7B6-2E60-45D8-A972-5E25D782AE58}|Client\\Client.csproj|F:\\Fitpas\\client\\uikontrole\\mainuicontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3AB7B6-2E60-45D8-A972-5E25D782AE58}|Client\\Client.csproj|solutionrelative:client\\uikontrole\\mainuicontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3AB7B6-2E60-45D8-A972-5E25D782AE58}|Client\\Client.csproj|F:\\Fitpas\\client\\uikontrole\\klijentuicontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3AB7B6-2E60-45D8-A972-5E25D782AE58}|Client\\Client.csproj|solutionrelative:client\\uikontrole\\klijentuicontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3AB7B6-2E60-45D8-A972-5E25D782AE58}|Client\\Client.csproj|F:\\Fitpas\\client\\uikontrole\\loginuicontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3AB7B6-2E60-45D8-A972-5E25D782AE58}|Client\\Client.csproj|solutionrelative:client\\uikontrole\\loginuicontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3AB7B6-2E60-45D8-A972-5E25D782AE58}|Client\\Client.csproj|F:\\Fitpas\\client\\frmklijent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C3AB7B6-2E60-45D8-A972-5E25D782AE58}|Client\\Client.csproj|solutionrelative:client\\frmklijent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB6AF6E-B846-47DD-905B-93F5A10B73DD}|Common\\Common.csproj|F:\\Fitpas\\common\\communicationhelper\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB6AF6E-B846-47DD-905B-93F5A10B73DD}|Common\\Common.csproj|solutionrelative:common\\communicationhelper\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3AB7B6-2E60-45D8-A972-5E25D782AE58}|Client\\Client.csproj|F:\\Fitpas\\client\\communication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3AB7B6-2E60-45D8-A972-5E25D782AE58}|Client\\Client.csproj|solutionrelative:client\\communication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3AB7B6-2E60-45D8-A972-5E25D782AE58}|Client\\Client.csproj|F:\\Fitpas\\client\\userkontrole\\dodajklijenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C3AB7B6-2E60-45D8-A972-5E25D782AE58}|Client\\Client.csproj|solutionrelative:client\\userkontrole\\dodajklijenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3AB7B6-2E60-45D8-A972-5E25D782AE58}|Client\\Client.csproj|F:\\Fitpas\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3AB7B6-2E60-45D8-A972-5E25D782AE58}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|F:\\Fitpas\\server\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|solutionrelative:server\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB6AF6E-B846-47DD-905B-93F5A10B73DD}|Common\\Common.csproj|F:\\Fitpas\\common\\communicationhelper\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB6AF6E-B846-47DD-905B-93F5A10B73DD}|Common\\Common.csproj|solutionrelative:common\\communicationhelper\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB6AF6E-B846-47DD-905B-93F5A10B73DD}|Common\\Common.csproj|F:\\Fitpas\\common\\communicationhelper\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB6AF6E-B846-47DD-905B-93F5A10B73DD}|Common\\Common.csproj|solutionrelative:common\\communicationhelper\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB6AF6E-B846-47DD-905B-93F5A10B73DD}|Common\\Common.csproj|F:\\Fitpas\\common\\communicationhelper\\receiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB6AF6E-B846-47DD-905B-93F5A10B73DD}|Common\\Common.csproj|solutionrelative:common\\communicationhelper\\receiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB6AF6E-B846-47DD-905B-93F5A10B73DD}|Common\\Common.csproj|F:\\Fitpas\\common\\communicationhelper\\sender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB6AF6E-B846-47DD-905B-93F5A10B73DD}|Common\\Common.csproj|solutionrelative:common\\communicationhelper\\sender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB6AF6E-B846-47DD-905B-93F5A10B73DD}|Common\\Common.csproj|F:\\Fitpas\\common\\domain\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB6AF6E-B846-47DD-905B-93F5A10B73DD}|Common\\Common.csproj|solutionrelative:common\\domain\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB6AF6E-B846-47DD-905B-93F5A10B73DD}|Common\\Common.csproj|F:\\Fitpas\\common\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB6AF6E-B846-47DD-905B-93F5A10B73DD}|Common\\Common.csproj|solutionrelative:common\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB6AF6E-B846-47DD-905B-93F5A10B73DD}|Common\\Common.csproj|F:\\Fitpas\\common\\domain\\clanarina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB6AF6E-B846-47DD-905B-93F5A10B73DD}|Common\\Common.csproj|solutionrelative:common\\domain\\clanarina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB6AF6E-B846-47DD-905B-93F5A10B73DD}|Common\\Common.csproj|F:\\Fitpas\\common\\domain\\paketteretana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB6AF6E-B846-47DD-905B-93F5A10B73DD}|Common\\Common.csproj|solutionrelative:common\\domain\\paketteretana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB6AF6E-B846-47DD-905B-93F5A10B73DD}|Common\\Common.csproj|F:\\Fitpas\\common\\domain\\kategorija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB6AF6E-B846-47DD-905B-93F5A10B73DD}|Common\\Common.csproj|solutionrelative:common\\domain\\kategorija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB6AF6E-B846-47DD-905B-93F5A10B73DD}|Common\\Common.csproj|F:\\Fitpas\\common\\domain\\teretana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB6AF6E-B846-47DD-905B-93F5A10B73DD}|Common\\Common.csproj|solutionrelative:common\\domain\\teretana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB6AF6E-B846-47DD-905B-93F5A10B73DD}|Common\\Common.csproj|F:\\Fitpas\\common\\domain\\paket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB6AF6E-B846-47DD-905B-93F5A10B73DD}|Common\\Common.csproj|solutionrelative:common\\domain\\paket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB6AF6E-B846-47DD-905B-93F5A10B73DD}|Common\\Common.csproj|F:\\Fitpas\\common\\domain\\klijent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB6AF6E-B846-47DD-905B-93F5A10B73DD}|Common\\Common.csproj|solutionrelative:common\\domain\\klijent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|F:\\Fitpas\\server\\sistemskeoperacije\\ucitajlistuteretanaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|solutionrelative:server\\sistemskeoperacije\\ucitajlistuteretanaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3AB7B6-2E60-45D8-A972-5E25D782AE58}|Client\\Client.csproj|F:\\Fitpas\\client\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C3AB7B6-2E60-45D8-A972-5E25D782AE58}|Client\\Client.csproj|solutionrelative:client\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3AB7B6-2E60-45D8-A972-5E25D782AE58}|Client\\Client.csproj|F:\\Fitpas\\client\\uikontrole\\paketiteretaneuicontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3AB7B6-2E60-45D8-A972-5E25D782AE58}|Client\\Client.csproj|solutionrelative:client\\uikontrole\\paketiteretaneuicontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3AB7B6-2E60-45D8-A972-5E25D782AE58}|Client\\Client.csproj|F:\\Fitpas\\client\\userkontrole\\dodajpaket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C3AB7B6-2E60-45D8-A972-5E25D782AE58}|Client\\Client.csproj|solutionrelative:client\\userkontrole\\dodajpaket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|F:\\Fitpas\\server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|solutionrelative:server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|F:\\Fitpas\\server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|solutionrelative:server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|F:\\Fitpas\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3AB7B6-2E60-45D8-A972-5E25D782AE58}|Client\\Client.csproj|F:\\Fitpas\\client\\userkontrole\\clanarinekorisnika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C3AB7B6-2E60-45D8-A972-5E25D782AE58}|Client\\Client.csproj|solutionrelative:client\\userkontrole\\clanarinekorisnika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3AB7B6-2E60-45D8-A972-5E25D782AE58}|Client\\Client.csproj|F:\\Fitpas\\client\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C3AB7B6-2E60-45D8-A972-5E25D782AE58}|Client\\Client.csproj|solutionrelative:client\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3AB7B6-2E60-45D8-A972-5E25D782AE58}|Client\\Client.csproj|F:\\Fitpas\\client\\frmpaketiteretane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C3AB7B6-2E60-45D8-A972-5E25D782AE58}|Client\\Client.csproj|solutionrelative:client\\frmpaketiteretane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3AB7B6-2E60-45D8-A972-5E25D782AE58}|Client\\Client.csproj|F:\\Fitpas\\client\\metroframework.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8C3AB7B6-2E60-45D8-A972-5E25D782AE58}|Client\\Client.csproj|solutionrelative:client\\metroframework.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|F:\\Fitpas\\server\\sistemskeoperacije\\nadjiklijentaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|solutionrelative:server\\sistemskeoperacije\\nadjiklijentaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|F:\\Fitpas\\server\\sistemskeoperacije\\obrisiclanarinuso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|solutionrelative:server\\sistemskeoperacije\\obrisiclanarinuso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|F:\\Fitpas\\server\\sistemskeoperacije\\nadjipaketso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|solutionrelative:server\\sistemskeoperacije\\nadjipaketso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|F:\\Fitpas\\server\\sistemskeoperacije\\nadjikategorijuso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|solutionrelative:server\\sistemskeoperacije\\nadjikategorijuso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|F:\\Fitpas\\server\\sistemskeoperacije\\kreirajpaketso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|solutionrelative:server\\sistemskeoperacije\\kreirajpaketso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|F:\\Fitpas\\server\\sistemskeoperacije\\kreirajclanarinuso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|solutionrelative:server\\sistemskeoperacije\\kreirajclanarinuso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|F:\\Fitpas\\server\\sistemskeoperacije\\azurirajklijentaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|solutionrelative:server\\sistemskeoperacije\\azurirajklijentaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3D4331-13E3-496B-B0A0-4586BB1CD3E1}|DBBroker\\DBBroker.csproj|F:\\Fitpas\\dbbroker\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3D4331-13E3-496B-B0A0-4586BB1CD3E1}|DBBroker\\DBBroker.csproj|solutionrelative:dbbroker\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3AB7B6-2E60-45D8-A972-5E25D782AE58}|Client\\Client.csproj|F:\\Fitpas\\client\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8C3AB7B6-2E60-45D8-A972-5E25D782AE58}|Client\\Client.csproj|solutionrelative:client\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3AB7B6-2E60-45D8-A972-5E25D782AE58}|Client\\Client.csproj|F:\\Fitpas\\client\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3AB7B6-2E60-45D8-A972-5E25D782AE58}|Client\\Client.csproj|solutionrelative:client\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|F:\\Fitpas\\server\\sistemskeoperacije\\ucitajlistuclanarinaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|solutionrelative:server\\sistemskeoperacije\\ucitajlistuclanarinaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|F:\\Fitpas\\server\\sistemskeoperacije\\obrisipaketso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|solutionrelative:server\\sistemskeoperacije\\obrisipaketso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3AB7B6-2E60-45D8-A972-5E25D782AE58}|Client\\Client.csproj|F:\\Fitpas\\client\\userkontrole\\upravljajpaketima.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C3AB7B6-2E60-45D8-A972-5E25D782AE58}|Client\\Client.csproj|solutionrelative:client\\userkontrole\\upravljajpaketima.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|F:\\Fitpas\\server\\sistemskeoperacije\\ucitajlistukategorijaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|solutionrelative:server\\sistemskeoperacije\\ucitajlistukategorijaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3AB7B6-2E60-45D8-A972-5E25D782AE58}|Client\\Client.csproj|F:\\Fitpas\\client\\userkontrole\\pregledkategorija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C3AB7B6-2E60-45D8-A972-5E25D782AE58}|Client\\Client.csproj|solutionrelative:client\\userkontrole\\pregledkategorija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|F:\\Fitpas\\server\\sistemskeoperacije\\kreirajpt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|solutionrelative:server\\sistemskeoperacije\\kreirajpt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3AB7B6-2E60-45D8-A972-5E25D782AE58}|Client\\Client.csproj|F:\\Fitpas\\client\\userkontrole\\izmeniklijenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C3AB7B6-2E60-45D8-A972-5E25D782AE58}|Client\\Client.csproj|solutionrelative:client\\userkontrole\\izmeniklijenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|F:\\Fitpas\\server\\sistemskeoperacije\\azurirajteretanuso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|solutionrelative:server\\sistemskeoperacije\\azurirajteretanuso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|F:\\Fitpas\\server\\sistemskeoperacije\\azurirajpaketso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|solutionrelative:server\\sistemskeoperacije\\azurirajpaketso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|F:\\Fitpas\\server\\sistemskeoperacije\\nadjiteretanuso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|solutionrelative:server\\sistemskeoperacije\\nadjiteretanuso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|F:\\Fitpas\\server\\sistemskeoperacije\\obrisiteretanuso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|solutionrelative:server\\sistemskeoperacije\\obrisiteretanuso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3AB7B6-2E60-45D8-A972-5E25D782AE58}|Client\\Client.csproj|F:\\Fitpas\\client\\userkontrole\\dodajteretanu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C3AB7B6-2E60-45D8-A972-5E25D782AE58}|Client\\Client.csproj|solutionrelative:client\\userkontrole\\dodajteretanu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|F:\\Fitpas\\server\\sistemskeoperacije\\nadjiptso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|solutionrelative:server\\sistemskeoperacije\\nadjiptso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Fitpas\\packages\\MetroFramework.1.2.0.3\\README.TXT||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:packages\\MetroFramework.1.2.0.3\\README.TXT||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|F:\\Fitpas\\server\\sistemskeoperacije\\nadjiclanarinuso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26BA1F4-947E-4E21-8B58-9360E9B5655B}|Server\\Server.csproj|solutionrelative:server\\sistemskeoperacije\\nadjiclanarinuso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3AB7B6-2E60-45D8-A972-5E25D782AE58}|Client\\Client.csproj|F:\\Fitpas\\client\\userkontrole\\clanarinekorisnika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3AB7B6-2E60-45D8-A972-5E25D782AE58}|Client\\Client.csproj|solutionrelative:client\\userkontrole\\clanarinekorisnika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3AB7B6-2E60-45D8-A972-5E25D782AE58}|Client\\Client.csproj|F:\\Fitpas\\client\\userkontrole\\dodajpaket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3AB7B6-2E60-45D8-A972-5E25D782AE58}|Client\\Client.csproj|solutionrelative:client\\userkontrole\\dodajpaket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ObrisiKategorijuSO.cs",
+              "DocumentMoniker": "F:\\Fitpas\\Server\\SistemskeOperacije\\ObrisiKategorijuSO.cs",
+              "RelativeDocumentMoniker": "Server\\SistemskeOperacije\\ObrisiKategorijuSO.cs",
+              "ToolTip": "F:\\Fitpas\\Server\\SistemskeOperacije\\ObrisiKategorijuSO.cs",
+              "RelativeToolTip": "Server\\SistemskeOperacije\\ObrisiKategorijuSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:27:24.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KlijentUIControl.cs",
+              "DocumentMoniker": "F:\\Fitpas\\Client\\UIKontrole\\KlijentUIControl.cs",
+              "RelativeDocumentMoniker": "Client\\UIKontrole\\KlijentUIControl.cs",
+              "ToolTip": "F:\\Fitpas\\Client\\UIKontrole\\KlijentUIControl.cs",
+              "RelativeToolTip": "Client\\UIKontrole\\KlijentUIControl.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAADgBAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:03:09.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientHandler.cs",
+              "DocumentMoniker": "F:\\Fitpas\\Server\\ClientHandler.cs",
+              "RelativeDocumentMoniker": "Server\\ClientHandler.cs",
+              "ToolTip": "F:\\Fitpas\\Server\\ClientHandler.cs",
+              "RelativeToolTip": "Server\\ClientHandler.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAArwGQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:03:09.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Broker.cs",
+              "DocumentMoniker": "F:\\Fitpas\\DBBroker\\Broker.cs",
+              "RelativeDocumentMoniker": "DBBroker\\Broker.cs",
+              "ToolTip": "F:\\Fitpas\\DBBroker\\Broker.cs",
+              "RelativeToolTip": "DBBroker\\Broker.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAWwDsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:03:09.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmKlijent.cs [Design]",
+              "DocumentMoniker": "F:\\Fitpas\\Client\\FrmKlijent.cs",
+              "RelativeDocumentMoniker": "Client\\FrmKlijent.cs",
+              "ToolTip": "F:\\Fitpas\\Client\\FrmKlijent.cs [Design]",
+              "RelativeToolTip": "Client\\FrmKlijent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:03:09.87Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginUIControl.cs",
+              "DocumentMoniker": "F:\\Fitpas\\Client\\UIKontrole\\LoginUIControl.cs",
+              "RelativeDocumentMoniker": "Client\\UIKontrole\\LoginUIControl.cs",
+              "ToolTip": "F:\\Fitpas\\Client\\UIKontrole\\LoginUIControl.cs",
+              "RelativeToolTip": "Client\\UIKontrole\\LoginUIControl.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:03:09.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainUIControl.cs",
+              "DocumentMoniker": "F:\\Fitpas\\Client\\UIKontrole\\MainUIControl.cs",
+              "RelativeDocumentMoniker": "Client\\UIKontrole\\MainUIControl.cs",
+              "ToolTip": "F:\\Fitpas\\Client\\UIKontrole\\MainUIControl.cs",
+              "RelativeToolTip": "Client\\UIKontrole\\MainUIControl.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:03:09.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Server.cs",
+              "DocumentMoniker": "F:\\Fitpas\\Server\\Server.cs",
+              "RelativeDocumentMoniker": "Server\\Server.cs",
+              "ToolTip": "F:\\Fitpas\\Server\\Server.cs",
+              "RelativeToolTip": "Server\\Server.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAACAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:03:09.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Session.cs",
+              "DocumentMoniker": "F:\\Fitpas\\Server\\Session.cs",
+              "RelativeDocumentMoniker": "Server\\Session.cs",
+              "ToolTip": "F:\\Fitpas\\Server\\Session.cs",
+              "RelativeToolTip": "Server\\Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:03:09.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "F:\\Fitpas\\Server\\Controller.cs",
+              "RelativeDocumentMoniker": "Server\\Controller.cs",
+              "ToolTip": "F:\\Fitpas\\Server\\Controller.cs",
+              "RelativeToolTip": "Server\\Controller.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAnwCMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:03:09.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ObrisiKlijentaSO.cs",
+              "DocumentMoniker": "F:\\Fitpas\\Server\\SistemskeOperacije\\ObrisiKlijentaSO.cs",
+              "RelativeDocumentMoniker": "Server\\SistemskeOperacije\\ObrisiKlijentaSO.cs",
+              "ToolTip": "F:\\Fitpas\\Server\\SistemskeOperacije\\ObrisiKlijentaSO.cs",
+              "RelativeToolTip": "Server\\SistemskeOperacije\\ObrisiKlijentaSO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:03:09.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SistemskaOperacijaBazicno.cs",
+              "DocumentMoniker": "F:\\Fitpas\\Server\\SistemskeOperacije\\SistemskaOperacijaBazicno.cs",
+              "RelativeDocumentMoniker": "Server\\SistemskeOperacije\\SistemskaOperacijaBazicno.cs",
+              "ToolTip": "F:\\Fitpas\\Server\\SistemskeOperacije\\SistemskaOperacijaBazicno.cs",
+              "RelativeToolTip": "Server\\SistemskeOperacije\\SistemskaOperacijaBazicno.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:03:09.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DodajKlijenta.cs [Design]",
+              "DocumentMoniker": "F:\\Fitpas\\Client\\UserKontrole\\DodajKlijenta.cs",
+              "RelativeDocumentMoniker": "Client\\UserKontrole\\DodajKlijenta.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\Fitpas\\Client\\UserKontrole\\DodajKlijenta.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:03:09.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Sender.cs",
+              "DocumentMoniker": "F:\\Fitpas\\Common\\CommunicationHelper\\Sender.cs",
+              "RelativeDocumentMoniker": "Common\\CommunicationHelper\\Sender.cs",
+              "ToolTip": "F:\\Fitpas\\Common\\CommunicationHelper\\Sender.cs",
+              "RelativeToolTip": "Common\\CommunicationHelper\\Sender.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAswBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:03:09.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Receiver.cs",
+              "DocumentMoniker": "F:\\Fitpas\\Common\\CommunicationHelper\\Receiver.cs",
+              "RelativeDocumentMoniker": "Common\\CommunicationHelper\\Receiver.cs",
+              "ToolTip": "F:\\Fitpas\\Common\\CommunicationHelper\\Receiver.cs",
+              "RelativeToolTip": "Common\\CommunicationHelper\\Receiver.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAcwB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:03:09.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "F:\\Fitpas\\Common\\Domain\\IEntity.cs",
+              "RelativeDocumentMoniker": "Common\\Domain\\IEntity.cs",
+              "ToolTip": "F:\\Fitpas\\Common\\Domain\\IEntity.cs",
+              "RelativeToolTip": "Common\\Domain\\IEntity.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:03:09.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Operation.cs",
+              "DocumentMoniker": "F:\\Fitpas\\Common\\CommunicationHelper\\Operation.cs",
+              "RelativeDocumentMoniker": "Common\\CommunicationHelper\\Operation.cs",
+              "ToolTip": "F:\\Fitpas\\Common\\CommunicationHelper\\Operation.cs",
+              "RelativeToolTip": "Common\\CommunicationHelper\\Operation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:03:09.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Request.cs",
+              "DocumentMoniker": "F:\\Fitpas\\Common\\CommunicationHelper\\Request.cs",
+              "RelativeDocumentMoniker": "Common\\CommunicationHelper\\Request.cs",
+              "ToolTip": "F:\\Fitpas\\Common\\CommunicationHelper\\Request.cs",
+              "RelativeToolTip": "Common\\CommunicationHelper\\Request.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:03:09.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Response.cs",
+              "DocumentMoniker": "F:\\Fitpas\\Common\\CommunicationHelper\\Response.cs",
+              "RelativeDocumentMoniker": "Common\\CommunicationHelper\\Response.cs",
+              "ToolTip": "F:\\Fitpas\\Common\\CommunicationHelper\\Response.cs",
+              "RelativeToolTip": "Common\\CommunicationHelper\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:03:09.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Communication.cs",
+              "DocumentMoniker": "F:\\Fitpas\\Client\\Communication.cs",
+              "RelativeDocumentMoniker": "Client\\Communication.cs",
+              "ToolTip": "F:\\Fitpas\\Client\\Communication.cs",
+              "RelativeToolTip": "Client\\Communication.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAswHUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:03:09.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Fitpas\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Client\\Program.cs",
+              "ToolTip": "F:\\Fitpas\\Client\\Program.cs",
+              "RelativeToolTip": "Client\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:03:09.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.config",
+              "DocumentMoniker": "F:\\Fitpas\\Server\\App.config",
+              "RelativeDocumentMoniker": "Server\\App.config",
+              "ToolTip": "F:\\Fitpas\\Server\\App.config",
+              "RelativeToolTip": "Server\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-14T01:03:09.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\Fitpas\\Common\\Domain\\User.cs",
+              "RelativeDocumentMoniker": "Common\\Domain\\User.cs",
+              "ToolTip": "F:\\Fitpas\\Common\\Domain\\User.cs",
+              "RelativeToolTip": "Common\\Domain\\User.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:03:09.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Clanarina.cs",
+              "DocumentMoniker": "F:\\Fitpas\\Common\\Domain\\Clanarina.cs",
+              "RelativeDocumentMoniker": "Common\\Domain\\Clanarina.cs",
+              "ToolTip": "F:\\Fitpas\\Common\\Domain\\Clanarina.cs",
+              "RelativeToolTip": "Common\\Domain\\Clanarina.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:03:09.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PaketTeretana.cs",
+              "DocumentMoniker": "F:\\Fitpas\\Common\\Domain\\PaketTeretana.cs",
+              "RelativeDocumentMoniker": "Common\\Domain\\PaketTeretana.cs",
+              "ToolTip": "F:\\Fitpas\\Common\\Domain\\PaketTeretana.cs",
+              "RelativeToolTip": "Common\\Domain\\PaketTeretana.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:03:09.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Kategorija.cs",
+              "DocumentMoniker": "F:\\Fitpas\\Common\\Domain\\Kategorija.cs",
+              "RelativeDocumentMoniker": "Common\\Domain\\Kategorija.cs",
+              "ToolTip": "F:\\Fitpas\\Common\\Domain\\Kategorija.cs",
+              "RelativeToolTip": "Common\\Domain\\Kategorija.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:03:09.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Teretana.cs",
+              "DocumentMoniker": "F:\\Fitpas\\Common\\Domain\\Teretana.cs",
+              "RelativeDocumentMoniker": "Common\\Domain\\Teretana.cs",
+              "ToolTip": "F:\\Fitpas\\Common\\Domain\\Teretana.cs",
+              "RelativeToolTip": "Common\\Domain\\Teretana.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:03:09.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Paket.cs",
+              "DocumentMoniker": "F:\\Fitpas\\Common\\Domain\\Paket.cs",
+              "RelativeDocumentMoniker": "Common\\Domain\\Paket.cs",
+              "ToolTip": "F:\\Fitpas\\Common\\Domain\\Paket.cs",
+              "RelativeToolTip": "Common\\Domain\\Paket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:03:09.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Klijent.cs",
+              "DocumentMoniker": "F:\\Fitpas\\Common\\Domain\\Klijent.cs",
+              "RelativeDocumentMoniker": "Common\\Domain\\Klijent.cs",
+              "ToolTip": "F:\\Fitpas\\Common\\Domain\\Klijent.cs",
+              "RelativeToolTip": "Common\\Domain\\Klijent.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:03:09.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UcitajListuTeretanaSO.cs",
+              "DocumentMoniker": "F:\\Fitpas\\Server\\SistemskeOperacije\\UcitajListuTeretanaSO.cs",
+              "RelativeDocumentMoniker": "Server\\SistemskeOperacije\\UcitajListuTeretanaSO.cs",
+              "ToolTip": "F:\\Fitpas\\Server\\SistemskeOperacije\\UcitajListuTeretanaSO.cs",
+              "RelativeToolTip": "Server\\SistemskeOperacije\\UcitajListuTeretanaSO.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:03:09.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FrmLogin.cs [Design]",
+              "DocumentMoniker": "F:\\Fitpas\\Client\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Client\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\Milan\\Desktop\\Fitpas\\Fitpas\\Client\\FrmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-14T01:03:09.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PaketiTeretaneUIControl.cs",
+              "DocumentMoniker": "F:\\Fitpas\\Client\\UIKontrole\\PaketiTeretaneUIControl.cs",
+              "RelativeDocumentMoniker": "Client\\UIKontrole\\PaketiTeretaneUIControl.cs",
+              "ToolTip": "F:\\Fitpas\\Client\\UIKontrole\\PaketiTeretaneUIControl.cs",
+              "RelativeToolTip": "Client\\UIKontrole\\PaketiTeretaneUIControl.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAqwFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:03:09.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DodajPaket.cs [Design]",
+              "DocumentMoniker": "F:\\Fitpas\\Client\\UserKontrole\\DodajPaket.cs",
+              "RelativeDocumentMoniker": "Client\\UserKontrole\\DodajPaket.cs",
+              "ToolTip": "C:\\Users\\Milan\\Desktop\\Fitpas\\Fitpas\\Client\\UserKontrole\\DodajPaket.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-11-14T01:03:09.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\Fitpas\\Server\\Form1.cs",
+              "RelativeDocumentMoniker": "Server\\Form1.cs",
+              "ToolTip": "F:\\Fitpas\\Server\\Form1.cs",
+              "RelativeToolTip": "Server\\Form1.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-14T01:03:09.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\Fitpas\\Server\\Form1.cs",
+              "RelativeDocumentMoniker": "Server\\Form1.cs",
+              "ToolTip": "C:\\Users\\Milan\\Desktop\\Fitpas\\Fitpas\\Server\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-14T01:03:09.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Fitpas\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "F:\\Fitpas\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:03:09.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ClanarineKorisnika.cs [Design]",
+              "DocumentMoniker": "F:\\Fitpas\\Client\\UserKontrole\\ClanarineKorisnika.cs",
+              "RelativeDocumentMoniker": "Client\\UserKontrole\\ClanarineKorisnika.cs",
+              "ToolTip": "C:\\Users\\Milan\\Desktop\\Fitpas\\Fitpas\\Client\\UserKontrole\\ClanarineKorisnika.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-11-14T01:03:09.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FrmMain.cs [Design]",
+              "DocumentMoniker": "F:\\Fitpas\\Client\\FrmMain.cs",
+              "RelativeDocumentMoniker": "Client\\FrmMain.cs",
+              "ToolTip": "C:\\Users\\Milan\\Desktop\\Fitpas\\Fitpas\\Client\\FrmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-14T01:03:09.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FrmPaketiTeretane.cs [Design]",
+              "DocumentMoniker": "F:\\Fitpas\\Client\\FrmPaketiTeretane.cs",
+              "RelativeDocumentMoniker": "Client\\FrmPaketiTeretane.cs",
+              "ToolTip": "C:\\Users\\Milan\\Desktop\\Fitpas\\Fitpas\\Client\\FrmPaketiTeretane.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-14T01:03:09.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MetroFramework.txt",
+              "DocumentMoniker": "F:\\Fitpas\\Client\\MetroFramework.txt",
+              "RelativeDocumentMoniker": "Client\\MetroFramework.txt",
+              "ToolTip": "F:\\Fitpas\\Client\\MetroFramework.txt",
+              "RelativeToolTip": "Client\\MetroFramework.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-14T01:03:09.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "NadjiKlijentaSO.cs",
+              "DocumentMoniker": "F:\\Fitpas\\Server\\SistemskeOperacije\\NadjiKlijentaSO.cs",
+              "RelativeDocumentMoniker": "Server\\SistemskeOperacije\\NadjiKlijentaSO.cs",
+              "ToolTip": "F:\\Fitpas\\Server\\SistemskeOperacije\\NadjiKlijentaSO.cs",
+              "RelativeToolTip": "Server\\SistemskeOperacije\\NadjiKlijentaSO.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwCwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:03:09.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ObrisiClanarinuSO.cs",
+              "DocumentMoniker": "F:\\Fitpas\\Server\\SistemskeOperacije\\ObrisiClanarinuSO.cs",
+              "RelativeDocumentMoniker": "Server\\SistemskeOperacije\\ObrisiClanarinuSO.cs",
+              "ToolTip": "F:\\Fitpas\\Server\\SistemskeOperacije\\ObrisiClanarinuSO.cs",
+              "RelativeToolTip": "Server\\SistemskeOperacije\\ObrisiClanarinuSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:03:09.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "NadjiPaketSO.cs",
+              "DocumentMoniker": "F:\\Fitpas\\Server\\SistemskeOperacije\\NadjiPaketSO.cs",
+              "RelativeDocumentMoniker": "Server\\SistemskeOperacije\\NadjiPaketSO.cs",
+              "ToolTip": "F:\\Fitpas\\Server\\SistemskeOperacije\\NadjiPaketSO.cs",
+              "RelativeToolTip": "Server\\SistemskeOperacije\\NadjiPaketSO.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAgwBoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:03:09.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "NadjiKategorijuSO.cs",
+              "DocumentMoniker": "F:\\Fitpas\\Server\\SistemskeOperacije\\NadjiKategorijuSO.cs",
+              "RelativeDocumentMoniker": "Server\\SistemskeOperacije\\NadjiKategorijuSO.cs",
+              "ToolTip": "F:\\Fitpas\\Server\\SistemskeOperacije\\NadjiKategorijuSO.cs",
+              "RelativeToolTip": "Server\\SistemskeOperacije\\NadjiKategorijuSO.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:03:09.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "KreirajPaketSO.cs",
+              "DocumentMoniker": "F:\\Fitpas\\Server\\SistemskeOperacije\\KreirajPaketSO.cs",
+              "RelativeDocumentMoniker": "Server\\SistemskeOperacije\\KreirajPaketSO.cs",
+              "ToolTip": "F:\\Fitpas\\Server\\SistemskeOperacije\\KreirajPaketSO.cs",
+              "RelativeToolTip": "Server\\SistemskeOperacije\\KreirajPaketSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:03:09.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "KreirajClanarinuSO.cs",
+              "DocumentMoniker": "F:\\Fitpas\\Server\\SistemskeOperacije\\KreirajClanarinuSO.cs",
+              "RelativeDocumentMoniker": "Server\\SistemskeOperacije\\KreirajClanarinuSO.cs",
+              "ToolTip": "F:\\Fitpas\\Server\\SistemskeOperacije\\KreirajClanarinuSO.cs",
+              "RelativeToolTip": "Server\\SistemskeOperacije\\KreirajClanarinuSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:03:09.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "F:\\Fitpas\\DBBroker\\DBConnection.cs",
+              "RelativeDocumentMoniker": "DBBroker\\DBConnection.cs",
+              "ToolTip": "F:\\Fitpas\\DBBroker\\DBConnection.cs",
+              "RelativeToolTip": "DBBroker\\DBConnection.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAswBMAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:03:09.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AzurirajKlijentaSO.cs",
+              "DocumentMoniker": "F:\\Fitpas\\Server\\SistemskeOperacije\\AzurirajKlijentaSO.cs",
+              "RelativeDocumentMoniker": "Server\\SistemskeOperacije\\AzurirajKlijentaSO.cs",
+              "ToolTip": "F:\\Fitpas\\Server\\SistemskeOperacije\\AzurirajKlijentaSO.cs",
+              "RelativeToolTip": "Server\\SistemskeOperacije\\AzurirajKlijentaSO.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:03:09.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "App.config",
+              "DocumentMoniker": "F:\\Fitpas\\Client\\App.config",
+              "RelativeDocumentMoniker": "Client\\App.config",
+              "ToolTip": "F:\\Fitpas\\Client\\App.config",
+              "RelativeToolTip": "Client\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-14T01:03:09.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "FrmMain.cs",
+              "DocumentMoniker": "F:\\Fitpas\\Client\\FrmMain.cs",
+              "RelativeDocumentMoniker": "Client\\FrmMain.cs",
+              "ToolTip": "F:\\Fitpas\\Client\\FrmMain.cs",
+              "RelativeToolTip": "Client\\FrmMain.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-14T01:03:09.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "UcitajListuClanarinaSO.cs",
+              "DocumentMoniker": "F:\\Fitpas\\Server\\SistemskeOperacije\\UcitajListuClanarinaSO.cs",
+              "RelativeDocumentMoniker": "Server\\SistemskeOperacije\\UcitajListuClanarinaSO.cs",
+              "ToolTip": "F:\\Fitpas\\Server\\SistemskeOperacije\\UcitajListuClanarinaSO.cs",
+              "RelativeToolTip": "Server\\SistemskeOperacije\\UcitajListuClanarinaSO.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:03:09.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ObrisiPaketSO.cs",
+              "DocumentMoniker": "F:\\Fitpas\\Server\\SistemskeOperacije\\ObrisiPaketSO.cs",
+              "RelativeDocumentMoniker": "Server\\SistemskeOperacije\\ObrisiPaketSO.cs",
+              "ToolTip": "F:\\Fitpas\\Server\\SistemskeOperacije\\ObrisiPaketSO.cs",
+              "RelativeToolTip": "Server\\SistemskeOperacije\\ObrisiPaketSO.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:03:09.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "UpravljajPaketima.cs [Design]",
+              "DocumentMoniker": "F:\\Fitpas\\Client\\UserKontrole\\UpravljajPaketima.cs",
+              "RelativeDocumentMoniker": "Client\\UserKontrole\\UpravljajPaketima.cs",
+              "ToolTip": "C:\\Users\\Milan\\Desktop\\Fitpas\\Fitpas\\Client\\UserKontrole\\UpravljajPaketima.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-11-14T01:03:09.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "UcitajListuKategorijaSO.cs",
+              "DocumentMoniker": "F:\\Fitpas\\Server\\SistemskeOperacije\\UcitajListuKategorijaSO.cs",
+              "RelativeDocumentMoniker": "Server\\SistemskeOperacije\\UcitajListuKategorijaSO.cs",
+              "ToolTip": "F:\\Fitpas\\Server\\SistemskeOperacije\\UcitajListuKategorijaSO.cs",
+              "RelativeToolTip": "Server\\SistemskeOperacije\\UcitajListuKategorijaSO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:03:09.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "PregledKategorija.cs [Design]",
+              "DocumentMoniker": "F:\\Fitpas\\Client\\UserKontrole\\PregledKategorija.cs",
+              "RelativeDocumentMoniker": "Client\\UserKontrole\\PregledKategorija.cs",
+              "ToolTip": "C:\\Users\\Milan\\Desktop\\Fitpas\\Fitpas\\Client\\UserKontrole\\PregledKategorija.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-11-14T01:03:09.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "KreirajPT.cs",
+              "DocumentMoniker": "F:\\Fitpas\\Server\\SistemskeOperacije\\KreirajPT.cs",
+              "RelativeDocumentMoniker": "Server\\SistemskeOperacije\\KreirajPT.cs",
+              "ToolTip": "F:\\Fitpas\\Server\\SistemskeOperacije\\KreirajPT.cs",
+              "RelativeToolTip": "Server\\SistemskeOperacije\\KreirajPT.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:03:09.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IzmeniKlijenta.cs [Design]",
+              "DocumentMoniker": "F:\\Fitpas\\Client\\UserKontrole\\IzmeniKlijenta.cs",
+              "RelativeDocumentMoniker": "Client\\UserKontrole\\IzmeniKlijenta.cs",
+              "ToolTip": "C:\\Users\\Milan\\Desktop\\Fitpas\\Fitpas\\Client\\UserKontrole\\IzmeniKlijenta.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-11-14T01:03:09.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "AzurirajTeretanuSO.cs",
+              "DocumentMoniker": "F:\\Fitpas\\Server\\SistemskeOperacije\\AzurirajTeretanuSO.cs",
+              "RelativeDocumentMoniker": "Server\\SistemskeOperacije\\AzurirajTeretanuSO.cs",
+              "ToolTip": "F:\\Fitpas\\Server\\SistemskeOperacije\\AzurirajTeretanuSO.cs",
+              "RelativeToolTip": "Server\\SistemskeOperacije\\AzurirajTeretanuSO.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:03:09.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "AzurirajPaketSO.cs",
+              "DocumentMoniker": "F:\\Fitpas\\Server\\SistemskeOperacije\\AzurirajPaketSO.cs",
+              "RelativeDocumentMoniker": "Server\\SistemskeOperacije\\AzurirajPaketSO.cs",
+              "ToolTip": "F:\\Fitpas\\Server\\SistemskeOperacije\\AzurirajPaketSO.cs",
+              "RelativeToolTip": "Server\\SistemskeOperacije\\AzurirajPaketSO.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:03:09.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "NadjiTeretanuSO.cs",
+              "DocumentMoniker": "F:\\Fitpas\\Server\\SistemskeOperacije\\NadjiTeretanuSO.cs",
+              "RelativeDocumentMoniker": "Server\\SistemskeOperacije\\NadjiTeretanuSO.cs",
+              "ToolTip": "F:\\Fitpas\\Server\\SistemskeOperacije\\NadjiTeretanuSO.cs",
+              "RelativeToolTip": "Server\\SistemskeOperacije\\NadjiTeretanuSO.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwBkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:03:09.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ObrisiTeretanuSO.cs",
+              "DocumentMoniker": "F:\\Fitpas\\Server\\SistemskeOperacije\\ObrisiTeretanuSO.cs",
+              "RelativeDocumentMoniker": "Server\\SistemskeOperacije\\ObrisiTeretanuSO.cs",
+              "ToolTip": "F:\\Fitpas\\Server\\SistemskeOperacije\\ObrisiTeretanuSO.cs",
+              "RelativeToolTip": "Server\\SistemskeOperacije\\ObrisiTeretanuSO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:03:09.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "DodajTeretanu.cs [Design]",
+              "DocumentMoniker": "F:\\Fitpas\\Client\\UserKontrole\\DodajTeretanu.cs",
+              "RelativeDocumentMoniker": "Client\\UserKontrole\\DodajTeretanu.cs",
+              "ToolTip": "C:\\Users\\Milan\\Desktop\\Fitpas\\Fitpas\\Client\\UserKontrole\\DodajTeretanu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-11-14T01:03:09.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "NadjiPTSO.cs",
+              "DocumentMoniker": "F:\\Fitpas\\Server\\SistemskeOperacije\\NadjiPTSO.cs",
+              "RelativeDocumentMoniker": "Server\\SistemskeOperacije\\NadjiPTSO.cs",
+              "ToolTip": "F:\\Fitpas\\Server\\SistemskeOperacije\\NadjiPTSO.cs",
+              "RelativeToolTip": "Server\\SistemskeOperacije\\NadjiPTSO.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwC0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:03:09.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "README.TXT",
+              "DocumentMoniker": "F:\\Fitpas\\packages\\MetroFramework.1.2.0.3\\README.TXT",
+              "RelativeDocumentMoniker": "packages\\MetroFramework.1.2.0.3\\README.TXT",
+              "ToolTip": "F:\\Fitpas\\packages\\MetroFramework.1.2.0.3\\README.TXT",
+              "RelativeToolTip": "packages\\MetroFramework.1.2.0.3\\README.TXT",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-14T01:03:09.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "NadjiClanarinuSO.cs",
+              "DocumentMoniker": "F:\\Fitpas\\Server\\SistemskeOperacije\\NadjiClanarinuSO.cs",
+              "RelativeDocumentMoniker": "Server\\SistemskeOperacije\\NadjiClanarinuSO.cs",
+              "ToolTip": "F:\\Fitpas\\Server\\SistemskeOperacije\\NadjiClanarinuSO.cs",
+              "RelativeToolTip": "Server\\SistemskeOperacije\\NadjiClanarinuSO.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAkwBkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:03:09.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ClanarineKorisnika.cs",
+              "DocumentMoniker": "F:\\Fitpas\\Client\\UserKontrole\\ClanarineKorisnika.cs",
+              "RelativeDocumentMoniker": "Client\\UserKontrole\\ClanarineKorisnika.cs",
+              "ToolTip": "F:\\Fitpas\\Client\\UserKontrole\\ClanarineKorisnika.cs",
+              "RelativeToolTip": "Client\\UserKontrole\\ClanarineKorisnika.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-11-14T01:03:09.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "DodajPaket.cs",
+              "DocumentMoniker": "F:\\Fitpas\\Client\\UserKontrole\\DodajPaket.cs",
+              "RelativeDocumentMoniker": "Client\\UserKontrole\\DodajPaket.cs",
+              "ToolTip": "F:\\Fitpas\\Client\\UserKontrole\\DodajPaket.cs",
+              "RelativeToolTip": "Client\\UserKontrole\\DodajPaket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-11-14T01:03:09.974Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

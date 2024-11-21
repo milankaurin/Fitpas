@@ -1,0 +1,1 @@
+﻿SELECT pt.*, t.* FROM [Paket-Teretana] pt JOIN Teretana t ON pt.idTeretane = t.idTeretane;

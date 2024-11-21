@@ -1,0 +1,6 @@
+C:\Users\Milan\Desktop\Fitpas\Fitpas\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\Milan\Desktop\Fitpas\Fitpas\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Milan\Desktop\Fitpas\Fitpas\Common\bin\Debug\Common.dll
+C:\Users\Milan\Desktop\Fitpas\Fitpas\Common\bin\Debug\Common.pdb
+C:\Users\Milan\Desktop\Fitpas\Fitpas\Common\obj\Debug\Common.dll
+C:\Users\Milan\Desktop\Fitpas\Fitpas\Common\obj\Debug\Common.pdb

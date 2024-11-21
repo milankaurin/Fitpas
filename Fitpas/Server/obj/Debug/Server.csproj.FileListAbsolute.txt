@@ -1,0 +1,15 @@
+C:\Users\Milan\Desktop\Fitpas\Fitpas\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Milan\Desktop\Fitpas\Fitpas\Server\obj\Debug\Server.Form1.resources
+C:\Users\Milan\Desktop\Fitpas\Fitpas\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Milan\Desktop\Fitpas\Fitpas\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Milan\Desktop\Fitpas\Fitpas\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Milan\Desktop\Fitpas\Fitpas\Server\bin\Debug\Server.exe.config
+C:\Users\Milan\Desktop\Fitpas\Fitpas\Server\bin\Debug\Server.exe
+C:\Users\Milan\Desktop\Fitpas\Fitpas\Server\bin\Debug\Server.pdb
+C:\Users\Milan\Desktop\Fitpas\Fitpas\Server\bin\Debug\Common.dll
+C:\Users\Milan\Desktop\Fitpas\Fitpas\Server\bin\Debug\DBBroker.dll
+C:\Users\Milan\Desktop\Fitpas\Fitpas\Server\bin\Debug\Common.pdb
+C:\Users\Milan\Desktop\Fitpas\Fitpas\Server\bin\Debug\DBBroker.pdb
+C:\Users\Milan\Desktop\Fitpas\Fitpas\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Milan\Desktop\Fitpas\Fitpas\Server\obj\Debug\Server.exe
+C:\Users\Milan\Desktop\Fitpas\Fitpas\Server\obj\Debug\Server.pdb
